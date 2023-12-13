@@ -21,7 +21,7 @@ git add .gitattributes
 ```
 Команда добавляет паттерны для файлов, которые должны быть отслеживаемы с использованием Git LFS, в файл .gitattributes в корне репозитория.
 
-# III. Датасет был взят [отсюда](https://www.kaggle.com/datasets/jocelyndumlao/cardiovascular-disease-dataset)
+# III. Датасет "Cardiovascular_Disease_Dataset.csv" был взят [отсюда](https://www.kaggle.com/datasets/jocelyndumlao/cardiovascular-disease-dataset)
 
 
 # IV. Инструкция, как получить данные для воспроизведения исследований:  
